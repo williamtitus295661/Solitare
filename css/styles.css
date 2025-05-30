@@ -1,12 +1,12 @@
 body {
-  background: linear-gradient(to bottom, purple, pink);
+    background: linear-gradient(to bottom, purple, pink);
     background-repeat: no-repeat;
     background-size: 375%;
     font-size: 19px;
     color: blue;
-    min-width: 300px;
+ 
     font-family: "Creepster", cursive;
-    height: 500vh; /* Ensures the gradient covers the full viewport */
+
     margin: 0;
 
 }
